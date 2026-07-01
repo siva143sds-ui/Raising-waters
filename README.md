@@ -63,3 +63,38 @@ The models are evaluated based on performance metrics, and the best model is sel
 ---
 
 ##  Project Structure 
+##  Sample Output
+
+The system takes weather parameters as input:
+- Rainfall
+- Temperature
+- Humidity
+- Cloud Visibility
+
+Based on the input values, the Machine Learning model predicts whether there is a flood risk or not.
+
+Example:
+
+Input:
+- Rainfall: 200 mm
+- Temperature: 25°C
+- Humidity: 90%
+- Cloud Visibility: 3 km
+
+Output:
+ Flood Risk Detected
+
+
+##  Future Enhancements
+
+- Integration with real-time weather APIs
+- IoT sensor-based flood monitoring
+- Satellite data integration
+- Mobile application development
+- Cloud deployment for real-time prediction
+- Advanced AI models for improved accuracy
+
+
+##  Conclusion
+
+Rising Waters demonstrates how Machine Learning can be used for disaster prediction and early warning systems. The project helps in analyzing environmental conditions and predicting flood risks to support better decision-making.
